@@ -1,0 +1,39 @@
+@media screen and (max-width: 1090px) {
+  .landing .container {
+    width: 100%;
+  }
+  .landing .header-nav {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 45px 25px;
+  }
+  .landing .header-nav.fixed {
+    box-sizing: border-box;
+    padding: 0 25px;
+  }
+  .landing .section1-nav ul {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+    line-height: 3;
+  }
+  .landing .section1-nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  .landing .section1-nav {
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+  .section-content__text-img {
+    width: 100%;
+  }
+  .landing .section-content {
+    width: 100%;
+    padding: 0 15px;
+    box-sizing: border-box;
+  }
+  .landing .section-content__text-img__game {
+    width: 100%;
+  }
+}

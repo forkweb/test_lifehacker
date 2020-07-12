@@ -15,10 +15,13 @@
               <a href="#"><div class="header-nav__social-t"></div></a>
               <a href="#"><div class="header-nav__social-vk"></div></a>
             </div>
-        </div>
+          </div>
+
         </div>
 
-        <img class="header-barrels" src="~@/assets/img/barrels.png" alt="">
+        <div class="header-barrels">
+          <img class="" src="~@/assets/img/barrels.png" alt="">
+        </div>
 
       </div>
     </div>

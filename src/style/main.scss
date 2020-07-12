@@ -35,7 +35,10 @@
       justify-content: space-between;
       padding: 45px 0;
       transition-duration: var(--transition-normal);
+      position: fixed;
       &__logo {
+        display: flex;
+        align-items: center;
         img {
           &:first-child {
             margin-right: 40px;
@@ -95,18 +98,21 @@
         z-index: 1;
         transition-duration: var(--transition-normal);
         padding: 0;
-        display: flex;
+        // display: flex;
         align-items: center;
       }
     }
     &-barrels {
-      position: absolute;
-      left: 50%;
-      transform: translate(-50%, 50%);
-      display: block;
-      object-fit: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       width: 490px;
       height: 320px;
+      position: absolute;
+      top: calc(50vh - 160px);
+      left: 0;
+      right: 0;
+      margin: 0 auto;
       cursor: pointer;
     }
   }
@@ -236,6 +242,10 @@
       letter-spacing: 1px;
       outline: none;
       margin-top: 75px;
+      transition-duration: var(--transition-normal);
+      &:hover {
+        background-color: #dc563b;
+      }
     }
   }
 
@@ -268,7 +278,7 @@
         left: 0;
         z-index: 4;
         background-color: rgb(255, 255, 255);
-        border-bottom: 1px solid;
+        border-bottom: 1px solid rgb(191, 191, 191);
         display: flex;
         align-items: center;
         transition-duration: var(--transition-normal);
@@ -295,8 +305,8 @@
   align-items: center;
   justify-content: flex-end;
   &-text {
-    color: white;
-    padding-right: 23%;
+    color: var(--color-nav);
+    padding-right: 110px;
     padding-top: 5px;
   }
 }
