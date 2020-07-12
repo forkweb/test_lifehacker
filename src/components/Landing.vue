@@ -4,15 +4,18 @@
     <div class="header">
       <div class="container">
         <div class="header-nav">
-          <div class="header-nav__logo">
-            <img src="~@/assets/img/lifehacker-logo.png" alt="">
-            <img src="~@/assets/img/rusloto-logo.png" alt="">
-          </div>
-          <div class="header-nav__social">
-            <a href=""><img src="~@/assets/img/facebook.png" alt=""> </a>
-            <a href=""><img src="~@/assets/img/twitter.png" alt=""></a>
-            <a href=""><img src="~@/assets/img/vk.png" alt=""></a>
-          </div>
+
+          <div class="container header-nav-container">
+            <div class="header-nav__logo">
+              <img src="~@/assets/img/lifehacker-logo.png" alt="">
+              <img src="~@/assets/img/rusloto-logo.png" alt="">
+            </div>
+            <div class="header-nav__social">
+              <a href="#"><div class="header-nav__social-f"></div></a>
+              <a href="#"><div class="header-nav__social-t"></div></a>
+              <a href="#"><div class="header-nav__social-vk"></div></a>
+            </div>
+        </div>
         </div>
 
         <img class="header-barrels" src="~@/assets/img/barrels.png" alt="">
@@ -23,14 +26,16 @@
     <div class="container section1">
 
       <div class="section1-nav">
-        <ul>
-          <li onclick="animateScrollTo(document.querySelector('.section1'))">Что можно выиграть</li>
-          <li>Где купить билет</li>
-          <li>Как играть</li>
-          <li>Туры лотереи</li>
-          <li>Где узнать результаты</li>
-          <li>Как получить выигрыш</li>
-        </ul>
+          <div class="container header-nav-container">
+          <ul>
+            <li onclick="animateScrollTo(document.querySelector('.section1'))">Что можно выиграть</li>
+            <li>Где купить билет</li>
+            <li>Как играть</li>
+            <li>Туры лотереи</li>
+            <li>Где узнать результаты</li>
+            <li>Как получить выигрыш</li>
+          </ul>
+        </div>
       </div>
 
       <div class="section-content">
@@ -176,7 +181,7 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="">
+              <img src="@/assets/img/k1.png" alt="">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">На сайте</div>
                 <div class="list-block__item-info__text">
@@ -186,7 +191,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="">
+              <img src="@/assets/img/k2.png" alt="">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">В мобильном приложении</div>
                 <div class="list-block__item-info__text">
@@ -196,7 +201,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="">
+              <img src="@/assets/img/k3.png" alt="">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">В розничных точках продаж</div>
                 <div class="list-block__item-info__text">
@@ -206,7 +211,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/44.png" alt="">
+              <img src="@/assets/img/k4.png" alt="">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Через SMS </div>
                 <div class="list-block__item-info__text">
@@ -366,7 +371,7 @@
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Проверить результаты в мобильном приложении</div>
                 <div class="list-block__item-info__text">
-                  Программа для iOS и Android предоставляет архив тиражей и присылает push-уведомления со свежими результатами. Также в приложении можно покупать билеты, изучать программу предстоящих розыгрышей и смотреть трансляции.
+                  Программа для <a href="#">iOS и Android</a> предоставляет архив тиражей и присылает push-уведомления со свежими результатами. Также в приложении можно покупать билеты, изучать программу предстоящих розыгрышей и смотреть трансляции.
                 </div>
               </div>
             </div>
@@ -434,6 +439,101 @@
       </div>
 
 
+    </div>
+
+
+    <div class="container section9">
+
+      <div class="section-content">
+
+        <div class="section-content-info">
+          <div class="section-content__title-loto2">Где забрать деньги</div>
+        </div>
+
+        <div class="section-content-info">
+          <div class="section-content__text-gray title-list">
+            В зависимости от суммы есть несколько способов забрать приз:
+          </div>
+
+          <div class="list-block">
+
+            <div class="list-block__item">
+              <img src="@/assets/img/m1.png" alt="">
+              <div class="list-block__item-info">
+                <div class="list-block__item-info__title">Перевести на баланс кошелька «Столото» — до 100 000 рублей</div>
+                <div class="list-block__item-info__text">
+                  Этот вариант подойдёт, если вы указали номер телефона при покупке. Зарегистрируйтесь на сайте с этим номером и выберите «Перевести выигрыш в кошелёк» на странице информации о билете. Эти деньги можно использовать для покупки новых билетов.
+                </div>
+              </div>
+            </div>
+
+            <div class="list-block__item">
+              <img src="@/assets/img/m2.png" alt="">
+              <div class="list-block__item-info">
+                <div class="list-block__item-info__title">Забрать в точке продаж — до 2 000 рублей</div>
+                <div class="list-block__item-info__text">
+                  Чтобы найти подходящую точку, нужно выбрать на странице с картой «Столото» пункт «Получить выигрыш» и ввести сумму выигрыша.
+                </div>
+              </div>
+            </div>
+
+            <div class="list-block__item">
+              <img src="@/assets/img/m3.png" alt="">
+              <div class="list-block__item-info">
+                <div class="list-block__item-info__title">Перевести на лицевой счёт — от 100 000 рублей  </div>
+                <div class="list-block__item-info__text">
+                  Для получения выигрыша нужно предоставить комплект документов и реквизиты счёта. Подробности — на сайте «Столото».
+                </div>
+              </div>
+            </div>
+
+            <div class="list-block__item">
+              <img src="@/assets/img/m4.png" alt="">
+              <div class="list-block__item-info">
+                <div class="list-block__item-info__title">В лотерейном центре «Столото» в Москве можно получить <br> любую сумму. </div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+
+      </div>
+
+    </div>
+
+
+    <div class="container section10">
+
+      <div class="section-content">
+
+        <div class="section-content-info">
+          <div class="section-content__title-loto2">Какие налоги придётся заплатить</div>
+        </div>
+
+        <div class="section-content-info">
+          <div class="section-content__text-gray">
+            Налог с выигрыша для россиян составляет 13%. Для нерезидентов РФ — 30%. Если за год вы выиграли не больше 4 000 рублей, ничего платить не нужно.
+          </div>
+          <div class="section-content__text-gray">
+            Выплату от 15 000 рублей вы получите уже с удержанным налогом 13%. Если выигрыш меньше 15 000 рублей, нужно подать в налоговый орган по месту жительства декларацию, оформленную по форме 3-НДФЛ, а потом заплатить налог в банке или онлайн. То же самое придётся сделать для получения вещевого приза: например, автомобиля или квартиры.
+          </div>
+          <div class="section-content__text-gray">
+            Каждый выигрыш фиксируется в системе Федеральной налоговой службы. Все невостребованные выигрыши перечисляются в госбюджет, так как организатор лотерей — государство.
+          </div>
+        </div>
+
+        <button class="section-content__btn">Играть в «Русское лото»</button>
+
+        
+      </div>
+
+
+    </div>
+
+    <div class="footer">
+      <p class="footer-text">© 2019 Лайфхакер</p>
     </div>
 
 

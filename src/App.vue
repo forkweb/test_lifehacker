@@ -8,7 +8,7 @@
 <script>
 import Landing from './components/Landing.vue'
 import animateScrollTo from 'animated-scroll-to';
-// import jQuery from "jquery";
+import jQuery from "jquery";
 
 
 export default {
@@ -38,17 +38,19 @@ export default {
       });
     },
     fixedMenu(){
-      // (function($) {
-      //   $(window).bind('scroll', function() {
-      //   var navHeight = $( window ).height() - 30;
-      //     if ($(window).scrollTop() > navHeight) {
-      //       $('.nav').addClass('fixed');
-      //     }
-      //     else {
-      //       $('.nav').removeClass('fixed');
-      //     }
-      // });
-      // })(jQuery);
+      (function($) {
+        $(window).bind('scroll', function() {
+        var navHeight = $( window ).height() - 30;
+          if ($(window).scrollTop() > navHeight) {
+            $('.header-nav').addClass('fixed');
+            $('.section1-nav').addClass('fixed');
+          }
+          else {
+            $('.header-nav').removeClass('fixed');
+            $('.section1-nav').removeClass('fixed');
+          }
+      });
+      })(jQuery);
     },
     animate_text() {
       console.log("test");
@@ -60,7 +62,7 @@ export default {
   mounted() {
     // this.animate_text();
     this.animateScrollTo();
-    // this.fixedMenu();
+    this.fixedMenu();
 
     
   },
