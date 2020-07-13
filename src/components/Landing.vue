@@ -128,33 +128,33 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Наталья Власова — 506 000 000 рублей.</div>
-                <div class="list-block__item-info__text">
-                  1 204-й тираж, трансляция от 5 ноября 2017 года. Деньги пенсионерка решила потратить на покупку жилья, отдых, образование дочери 
+              </div>
+              <div class="list-block__item-info__text">
+                1 204-й тираж, трансляция от 5 ноября 2017 года. Деньги пенсионерка решила потратить на покупку жилья, отдых, образование дочери 
                   и благотворительность.
-                </div>
-              </div>
+               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Наталья Власова — 506 000 000 рублей.</div>
-                <div class="list-block__item-info__text">
-                  1 264-й тираж, трансляция от 1 января 2019 года. Победители вложились в путешествия, покупку квартиры, помощь родственникам и благотворительность. Часть суммы собираются инвестировать.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                1 264-й тираж, трансляция от 1 января 2019 года. Победители вложились в путешествия, покупку квартиры, помощь родственникам и благотворительность. Часть суммы собираются инвестировать.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Николай и Оксана Мирошниченко — 500 000 000 рублей.</div>
-                <div class="list-block__item-info__text">
-                  1 264-й тираж, трансляция от 1 января 2019 года. Полмиллиарда планируют потратить на путешествия, выплату ипотеки, помощь родственникам и благотворительность.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                1 264-й тираж, трансляция от 1 января 2019 года. Полмиллиарда планируют потратить на путешествия, выплату ипотеки, помощь родственникам и благотворительность.
               </div>
             </div>
 
@@ -185,42 +185,42 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/k1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/k1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">На сайте</div>
-                <div class="list-block__item-info__text">
-                  <a href="#">Здесь</a> можно найти билеты с любимыми числами и купить разом до 100 штук. А ещё доступна опция заказа пяти билетов, в которых будут все числа от 1 до 90.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                <a href="#">Здесь</a> можно найти билеты с любимыми числами и купить разом до 100 штук. А ещё доступна опция заказа пяти билетов, в которых будут все числа от 1 до 90.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/k2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">В мобильном приложении</div>
-                <div class="list-block__item-info__text">
-                  Удобно покупать билеты с <a href="#">iOS и Android</a>, следить за результатами розыгрышей и смотреть трансляции.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Удобно покупать билеты с <a href="#">iOS и Android</a>, следить за результатами розыгрышей и смотреть трансляции.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/k3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">В розничных точках продаж</div>
-                <div class="list-block__item-info__text">
-                  На <a href="#">карте</a> можно найти киоски, лотерейные аппараты и партнёрские магазины: «Почта России», «Связной», «Билайн», «МегаФон», «Ростелеком», Tele2, «Перекрёсток», «Пятёрочка», «Бристоль».
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                На <a href="#">карте</a> можно найти киоски, лотерейные аппараты и партнёрские магазины: «Почта России», «Связной», «Билайн», «МегаФон», «Ростелеком», Tele2, «Перекрёсток», «Пятёрочка», «Бристоль».
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/k4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Через SMS </div>
-                <div class="list-block__item-info__text">
-                  Нужно найти на специальной <a href="#">странице</a> идентификационный код лотереи и прислать его SMS-сообщением на номер 9999. Деньги спишутся с баланса мобильного телефона.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Нужно найти на специальной <a href="#">странице</a> идентификационный код лотереи и прислать его SMS-сообщением на номер 9999. Деньги спишутся с баланса мобильного телефона.
               </div>
             </div>
 
@@ -271,43 +271,43 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Первый тур</div>
-                <div class="list-block__item-info__text">
-                  Выигрывают билеты, в которых пять чисел в любой из строк раньше других совпадут с номерами бочонков, вынутых ведущим из мешка. Раньше других — значит раньше, чем в других билетах, участвующих 
+              </div>
+              <div class="list-block__item-info__text">
+                Выигрывают билеты, в которых пять чисел в любой из строк раньше других совпадут с номерами бочонков, вынутых ведущим из мешка. Раньше других — значит раньше, чем в других билетах, участвующих 
                   в тираже.
-                </div>
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Второй тур</div>
-                <div class="list-block__item-info__text">
-                  Здесь выигрывают те билеты, в которых оказались зачёркнуты все 15 чисел в верхнем или нижнем поле. Если это случилось на пятнадцатом ходу, поздравляем — вы выиграли джекпот.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Здесь выигрывают те билеты, в которых оказались зачёркнуты все 15 чисел в верхнем или нижнем поле. Если это случилось на пятнадцатом ходу, поздравляем — вы выиграли джекпот.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Третий и последующие туры</div>
-                <div class="list-block__item-info__text">
-                  На этих этапах выигрывают билеты, в которых раньше других совпадут все 30 чисел.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                На этих этапах выигрывают билеты, в которых раньше других совпадут все 30 чисел.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">«Кубышка»</div>
-                <div class="list-block__item-info__text">
-                  Дополнительный тур, который проводят не всегда. В нём выигрывают билеты, где все невыпавшие в тираже числа оказываются в одном поле — верхнем или нижнем.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Дополнительный тур, который проводят не всегда. В нём выигрывают билеты, где все невыпавшие в тираже числа оказываются в одном поле — верхнем или нижнем.
               </div>
             </div>
 
@@ -341,72 +341,72 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Посмотреть трансляцию</div>
-                <div class="list-block__item-info__text">
-                  Проверенный способ узнать результат раньше всех и хорошая семейная традиция. Трансляция розыгрышей проходит каждое воскресенье в программе «У нас выигрывают!» на НТВ.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Проверенный способ узнать результат раньше всех и хорошая семейная традиция. Трансляция розыгрышей проходит каждое воскресенье в программе «У нас выигрывают!» на НТВ.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Проверить числа в архиве тиражей</div>
-                <div class="list-block__item-info__text">
-                  <a href="#">Найдите</a> номер тиража, указанный на билете, и узнайте, какие бочонки ведущий вынул из мешка. Либо введите номер билета на <a href="#">специальной странице</a> и проверьте, счастливый ли он.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                <a href="#">Найдите</a> номер тиража, указанный на билете, и узнайте, какие бочонки ведущий вынул из мешка. Либо введите номер билета на <a href="#">специальной странице</a> и проверьте, счастливый ли он.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Получить SMS</div>
-                <div class="list-block__item-info__text">
-                  Если при покупке билета вы указывали номер телефона, на него придёт сообщение о выигрыше свыше 15 тысяч рублей.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Если при покупке билета вы указывали номер телефона, на него придёт сообщение о выигрыше свыше 15 тысяч рублей.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Проверить результаты в мобильном приложении</div>
-                <div class="list-block__item-info__text">
-                  Программа для <a href="#">iOS и Android</a> предоставляет архив тиражей и присылает push-уведомления со свежими результатами. Также в приложении можно покупать билеты, изучать программу предстоящих розыгрышей и смотреть трансляции.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Программа для <a href="#">iOS и Android</a> предоставляет архив тиражей и присылает push-уведомления со свежими результатами. Также в приложении можно покупать билеты, изучать программу предстоящих розыгрышей и смотреть трансляции.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/55.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/55.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Спросить результаты в точках распространения билетов</div>
-                <div class="list-block__item-info__text">
-                  На случай, если под рукой ни компьютера, ни телефона, а ждать совсем не хочется.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                На случай, если под рукой ни компьютера, ни телефона, а ждать совсем не хочется.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/66.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/66.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Узнать в газете</div>
-                <div class="list-block__item-info__text">
-                  Результаты тиражей публикуются по средам в «Аргументах и фактах».
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Результаты тиражей публикуются по средам в «Аргументах и фактах».
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/77.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+              <img src="@/assets/img/77.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Узнать по телефону</div>
-                <div class="list-block__item-info__text">
-                  Номер круглосуточной горячей линии: 8 (900) 555 00 55.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Номер круглосуточной горячей линии: 8 (900) 555 00 55.
               </div>
             </div>
 
@@ -462,38 +462,38 @@
           <div class="list-block list-block__money">
 
             <div class="list-block__item">
-              <img src="@/assets/img/m1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/m1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Перевести на баланс кошелька «Столото» — до 100 000 рублей</div>
-                <div class="list-block__item-info__text">
-                  Этот вариант подойдёт, если вы указали номер телефона при покупке. Зарегистрируйтесь на сайте с этим номером и выберите «Перевести выигрыш в кошелёк» на странице информации о билете. Эти деньги можно использовать для покупки новых билетов.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Этот вариант подойдёт, если вы указали номер телефона при покупке. Зарегистрируйтесь на сайте с этим номером и выберите «Перевести выигрыш в кошелёк» на странице информации о билете. Эти деньги можно использовать для покупки новых билетов.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/m2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Забрать в точке продаж — до 2 000 рублей</div>
-                <div class="list-block__item-info__text">
-                  Чтобы найти подходящую точку, нужно выбрать на странице с картой «Столото» пункт «Получить выигрыш» и ввести сумму выигрыша.
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Чтобы найти подходящую точку, нужно выбрать на странице с картой «Столото» пункт «Получить выигрыш» и ввести сумму выигрыша.
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+                <img src="@/assets/img/m3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">Перевести на лицевой счёт — от 100 000 рублей  </div>
-                <div class="list-block__item-info__text">
-                  Для получения выигрыша нужно предоставить комплект документов и реквизиты счёта. Подробности — на сайте «Столото».
-                </div>
+              </div>
+              <div class="list-block__item-info__text">
+                Для получения выигрыша нужно предоставить комплект документов и реквизиты счёта. Подробности — на сайте «Столото».
               </div>
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
+              <img src="@/assets/img/m4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
                 <div class="list-block__item-info__title">В лотерейном центре «Столото» в Москве можно получить <br> любую сумму. </div>
               </div>
             </div>

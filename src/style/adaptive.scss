@@ -110,4 +110,24 @@
   .landing .header-nav__logo::after {
     right: 44px;
   }
+  .list-block__item img {
+    width: 36px !important;
+    height: 36px !important;
+  }
+  .landing .section-content .list-block__item-info {
+    padding-left: 0px;
+  }
+  .landing .section-content .list-block__item {
+    margin-bottom: 30px;
+  }
+  .landing .section-content .list-block__item-info__text {
+    margin-top: 15px;
+    padding-left: 0;
+  }
+  .landing .section-content .list-block__item img {
+    position: relative !important;
+  }
+  .landing .section-content .list-block__item-info__title {
+    padding-left: 15px
+  }
 }

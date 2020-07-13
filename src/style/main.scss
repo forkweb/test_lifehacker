@@ -231,24 +231,31 @@
     }
     .list-block {
       &__item {
-        margin-bottom: 30px;
+        margin-bottom: 40px;
+        display: flex;
+        flex-direction: column;
+        position: relative;
         img {
           object-fit: contain;
           width: 62px;
           height: 62px;
+          position: absolute;
+          top: 0;
         }
-        display: flex;
         &-info {
           padding-left: 35px;
+          display: flex;
+          align-items: center;
           &__title {
             font-size: 18px;
             font-weight: 700;
-            padding-bottom: 5px;
+            padding-left: 93px;
           }
           &__text {
             font-size: 18px;
             color: var(--color-gray-text);
             line-height: 1.5;
+            padding-left: 128px;
           }
         }
       }
