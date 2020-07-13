@@ -35,6 +35,7 @@ export default {
         if (hasScrolledToPosition) {
           // page is scrolled to a desired position 
         } else {
+          this.addClass("active");
           // scroll animation was interrupted by user
           // or by another call of "animateScrollTo"
         }
