@@ -48,11 +48,19 @@ export default {
       (function($) {
         $(window).bind('scroll', function() {
         var navHeight = $( window ).height() - 30;
+
+        let heightNav1 = $('.header-nav').height();
+        let heightNav2 = $('.section1-nav').height();
+        let sumHeight = heightNav1+heightNav2;
+
           if ($(window).scrollTop() > navHeight) {
+            $("body").css("padding-top",sumHeight);
             $('.header-nav').addClass('fixed');
             $('.section1-nav').addClass('fixed');
+            console.log(sumHeight);
           }
           else {
+            $("body").css("padding-top","0");
             $('.header-nav').removeClass('fixed');
             $('.section1-nav').removeClass('fixed');
           }
