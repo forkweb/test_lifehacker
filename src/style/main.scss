@@ -21,9 +21,9 @@
     position: relative;
   }
   .header {
-    background-image: url("~@/assets/img/header-bg.jpg");
-    background-size: contain;
-    background-repeat: round;
+    background: url(/img/header-bg.20d3c87d.jpg) round 0 0;
+    background-size: cover;
+    background-repeat: repeat;
     width: 100%;
     height: 100vh;
     display: inline-block;
@@ -265,6 +265,7 @@
     &-nav {
       margin: 45px 0;
       transition-duration: var(--transition-normal);
+      z-index: 3;
       ul {
         list-style: none;
         padding: 0;

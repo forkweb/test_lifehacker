@@ -24,7 +24,9 @@ export default {
   },
   methods: {
     animateScrollTo(){
+      
       animateScrollTo(0).then(hasScrolledToPosition => {
+      
         // scroll animation is finished
 
         // "hasScrolledToPosition" indicates if page/element
