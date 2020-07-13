@@ -9,7 +9,7 @@
 import Landing from './components/Landing.vue'
 import animateScrollTo from 'animated-scroll-to';
 import jQuery from "jquery";
-// import 'animate.min.css';
+import WOW from 'wow.js';
 
 
 export default {
@@ -20,6 +20,9 @@ export default {
   watch: {
     animateScrollTo() {
       this.animateScrollTo();
+    },
+    wowJs() {
+      this.wowJs();
     }
   },
   methods: {
@@ -67,14 +70,19 @@ export default {
         });
       })(jQuery);
     },
+    wowJs() {
+      new WOW().init();
+    }
   },
   create(){
     this.animateScrollTo();
+    // this.wowJs();
   },
   mounted() {
     this.animate_img();
     this.animateScrollTo();
     this.fixedMenu();
+    this.wowJs();
 
     
   },

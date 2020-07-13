@@ -128,7 +128,7 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="">
+              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Наталья Власова — 506 000 000 рублей.</div>
                 <div class="list-block__item-info__text">
@@ -139,7 +139,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="">
+              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Наталья Власова — 506 000 000 рублей.</div>
                 <div class="list-block__item-info__text">
@@ -149,7 +149,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="">
+              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Николай и Оксана Мирошниченко — 500 000 000 рублей.</div>
                 <div class="list-block__item-info__text">
@@ -185,7 +185,7 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/k1.png" alt="">
+              <img src="@/assets/img/k1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">На сайте</div>
                 <div class="list-block__item-info__text">
@@ -195,7 +195,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k2.png" alt="">
+              <img src="@/assets/img/k2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">В мобильном приложении</div>
                 <div class="list-block__item-info__text">
@@ -205,7 +205,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k3.png" alt="">
+              <img src="@/assets/img/k3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">В розничных точках продаж</div>
                 <div class="list-block__item-info__text">
@@ -215,7 +215,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/k4.png" alt="">
+              <img src="@/assets/img/k4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Через SMS </div>
                 <div class="list-block__item-info__text">
@@ -271,7 +271,7 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="">
+              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Первый тур</div>
                 <div class="list-block__item-info__text">
@@ -282,7 +282,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="">
+              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Второй тур</div>
                 <div class="list-block__item-info__text">
@@ -292,7 +292,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="">
+              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Третий и последующие туры</div>
                 <div class="list-block__item-info__text">
@@ -302,7 +302,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/44.png" alt="">
+              <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">«Кубышка»</div>
                 <div class="list-block__item-info__text">
@@ -341,7 +341,7 @@
           <div class="list-block">
 
             <div class="list-block__item">
-              <img src="@/assets/img/1.png" alt="">
+              <img src="@/assets/img/1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Посмотреть трансляцию</div>
                 <div class="list-block__item-info__text">
@@ -351,7 +351,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/2.png" alt="">
+              <img src="@/assets/img/2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Проверить числа в архиве тиражей</div>
                 <div class="list-block__item-info__text">
@@ -361,7 +361,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/3.png" alt="">
+              <img src="@/assets/img/3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Получить SMS</div>
                 <div class="list-block__item-info__text">
@@ -371,7 +371,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/44.png" alt="">
+              <img src="@/assets/img/44.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Проверить результаты в мобильном приложении</div>
                 <div class="list-block__item-info__text">
@@ -381,7 +381,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/55.png" alt="">
+              <img src="@/assets/img/55.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Спросить результаты в точках распространения билетов</div>
                 <div class="list-block__item-info__text">
@@ -391,7 +391,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/66.png" alt="">
+              <img src="@/assets/img/66.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Узнать в газете</div>
                 <div class="list-block__item-info__text">
@@ -401,7 +401,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/77.png" alt="">
+              <img src="@/assets/img/77.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Узнать по телефону</div>
                 <div class="list-block__item-info__text">
@@ -459,10 +459,10 @@
             В зависимости от суммы есть несколько способов забрать приз:
           </div>
 
-          <div class="list-block">
+          <div class="list-block list-block__money">
 
             <div class="list-block__item">
-              <img src="@/assets/img/m1.png" alt="">
+              <img src="@/assets/img/m1.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Перевести на баланс кошелька «Столото» — до 100 000 рублей</div>
                 <div class="list-block__item-info__text">
@@ -472,7 +472,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m2.png" alt="">
+              <img src="@/assets/img/m2.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Забрать в точке продаж — до 2 000 рублей</div>
                 <div class="list-block__item-info__text">
@@ -482,7 +482,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m3.png" alt="">
+              <img src="@/assets/img/m3.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">Перевести на лицевой счёт — от 100 000 рублей  </div>
                 <div class="list-block__item-info__text">
@@ -492,7 +492,7 @@
             </div>
 
             <div class="list-block__item">
-              <img src="@/assets/img/m4.png" alt="">
+              <img src="@/assets/img/m4.png" alt="" class="wow animate__fadeInLeft" data-wow-duration="1s"  data-wow-offset="50" data-wow-iteration="1">
               <div class="list-block__item-info">
                 <div class="list-block__item-info__title">В лотерейном центре «Столото» в Москве можно получить <br> любую сумму. </div>
               </div>

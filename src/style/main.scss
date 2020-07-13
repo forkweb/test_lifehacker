@@ -5,6 +5,7 @@
   --color-site: #ed5e42;
   --color-nav: #919da3;
   --color-href: #3670f9;
+  --color-visited: #9197a3;
   --color-gray-text: #424242;
   // --color-text: #040404;
 
@@ -21,7 +22,7 @@
     position: relative;
   }
   .header {
-    background: url(/img/header-bg.20d3c87d.jpg) round 0 0;
+    background: url(~@/assets/img/header-bg.jpg) round 0 0;
     background-size: cover;
     background-repeat: repeat;
     width: 100%;
@@ -112,6 +113,15 @@
         padding: 0;
         // display: flex;
         align-items: center;
+        & .header-nav__social-f {
+          background-image: url(~@/assets/img/facebook-h.png);
+        }
+        & .header-nav__social-t {
+          background-image: url(~@/assets/img/twitter-h.png);
+        }
+        & .header-nav__social-vk {
+          background-image: url(~@/assets/img/vk-h.png);
+        }
       }
     }
     &-barrels {
@@ -242,6 +252,9 @@
           }
         }
       }
+      &__money {
+        margin-bottom: 55px;
+      }
     }
     &__btn {
       cursor: pointer;
@@ -307,7 +320,7 @@
      color: var(--color-site);;
    }
    &:visited {
-    color: #424242;
+    color: var(--color-visited);
    }
  }
 }
@@ -329,9 +342,3 @@
 .section10 {
   margin-bottom: 60px !important;
 }
-
-// .header-barrels:hover {
-//   color: #000;
-//   animation-name: shakeX;
-//   // animation-duration: var(--animate-duration);
-// }
