@@ -9,6 +9,7 @@
 import Landing from './components/Landing.vue'
 import animateScrollTo from 'animated-scroll-to';
 import jQuery from "jquery";
+// import 'animate.min.css';
 
 
 export default {
@@ -52,15 +53,23 @@ export default {
       });
       })(jQuery);
     },
-    animate_text() {
-      console.log("test");
+    animate_img() {
+      (function($)  {
+        $(".header-barrels").hover(function(){
+          $(this).find("img").addClass("animate__shakeX");
+          $(this).find("img").addClass("animate__animated");
+        },function(){
+          $(this).find("img").removeClass("animate__shakeX");
+          $(this).find("img").removeClass("animate__animated");
+        });
+      })(jQuery);
     },
   },
   create(){
     this.animateScrollTo();
   },
   mounted() {
-    // this.animate_text();
+    this.animate_img();
     this.animateScrollTo();
     this.fixedMenu();
 
@@ -72,4 +81,5 @@ export default {
 <style lang="scss" type="text/scss">
   @import "./style/main.scss";
   @import "./style/adaptive.scss";
+  @import "./style/animate.min.css";
 </style>

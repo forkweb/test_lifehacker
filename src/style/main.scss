@@ -22,7 +22,8 @@
   }
   .header {
     background-image: url("~@/assets/img/header-bg.jpg");
-    background-size: cover;
+    background-size: contain;
+    background-repeat: round;
     width: 100%;
     height: 100vh;
     display: inline-block;
@@ -36,17 +37,28 @@
       padding: 45px 0;
       transition-duration: var(--transition-normal);
       position: fixed;
+      z-index: 2;
       &__logo {
         display: flex;
         align-items: center;
+        position: relative;
         img {
           &:first-child {
             margin-right: 40px;
           }
         }
+        &::after {
+          content: "";
+          position: absolute;
+          width: 0px;
+          border: 1px solid rgb(255, 255, 255);
+          height: 40px;
+          right: 57px;
+        }
       }
       &__social {
         display: flex;
+        align-items: center;
         a {
           margin-right: 22px;
           &:last-child {
@@ -109,7 +121,7 @@
       width: 490px;
       height: 320px;
       position: absolute;
-      top: calc(50vh - 160px);
+      top: calc(50vh - 140px);
       left: 0;
       right: 0;
       margin: 0 auto;
@@ -314,3 +326,9 @@
 .section10 {
   margin-bottom: 60px !important;
 }
+
+// .header-barrels:hover {
+//   color: #000;
+//   animation-name: shakeX;
+//   // animation-duration: var(--animate-duration);
+// }
