@@ -37,7 +37,7 @@
             <li onclick="animateScrollTo(document.querySelector('.section5'), {verticalOffset: -150,})">Как играть</li>
             <li onclick="animateScrollTo(document.querySelector('.section6'), {verticalOffset: -150,})">Туры лотереи</li>
             <li onclick="animateScrollTo(document.querySelector('.section7'), {verticalOffset: -150,})">Где узнать результаты</li>
-            <li onclick="animateScrollTo(document.querySelector('.section1'), {verticalOffset: -150,})">Как получить выигрыш</li>
+            <li onclick="animateScrollTo(document.querySelector('.section8'), {verticalOffset: -150,})">Как получить выигрыш</li>
           </ul>
         </div>
       </div>
